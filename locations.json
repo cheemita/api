@@ -56,8 +56,8 @@
     {
       "id":7,
       "name":"Banco BBVA Francisco Villa",
-      "latitude":24.0658561,
-      "longitude":-104.7241826,
+      "latitude":24.0580023,
+      "longitude":-104.6226589,
       "latitudeDelta":0.095,
       "longitudeDelta":0.0521,
       "color":"blue"
@@ -65,8 +65,8 @@
     {
       "id":8,
       "name":"Banco BBVA Blvd. José María Patoni",
-      "latitude":24.0658561,
-      "longitude":-104.7241826,
+      "latitude":24.053631,
+      "longitude":-104.6463873,
       "latitudeDelta":0.095,
       "longitudeDelta":0.0521,
       "color":"blue"
@@ -74,35 +74,8 @@
     {
       "id":9,
       "name":"Banco BBVA Blvd. Felipe Pescador",
-      "latitude":24.047610960478192,
-      "longitude":-104.62185599338247,
-      "latitudeDelta":0.095,
-      "longitudeDelta":0.0521,
-      "color":"blue"
-    },
-    {
-      "id":10,
-      "name":"Banco BBVA Real del Mezquital",
-      "latitude":24.047610960478192,
-      "longitude":-104.62185599338247,
-      "latitudeDelta":0.095,
-      "longitudeDelta":0.0521,
-      "color":"blue"
-    },
-    {
-      "id":11,
-      "name":"Banco BBVA 20 Noviembre",
-      "latitude":24.0658561,
-      "longitude":-104.7241826,
-      "latitudeDelta":0.095,
-      "longitudeDelta":0.0521,
-      "color":"blue"
-    },
-    {
-      "id":12,
-      "name":"Banco BBVA Blvd. Domingo Arrieta",
-      "latitude":24.0658561,
-      "longitude":-104.7241826,
+      "latitude":24.0441392,
+      "longitude":-104.6576721,
       "latitudeDelta":0.095,
       "longitudeDelta":0.0521,
       "color":"blue"
